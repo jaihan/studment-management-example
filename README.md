@@ -1,6 +1,4 @@
-# studment-management-example
-
-# EasyNotes Application
+# Sudment-management-example
 
 Build a Restful API using JWT auth with node/express js
 
